@@ -1,0 +1,21 @@
+body {
+    background: #000428;  
+background: -webkit-linear-gradient(to right,rgb(0, 238, 255), gray);  
+background: linear-gradient(to right, rgb(0, 238, 255), gray); 
+}
+
+header {
+    margin: 30px 0;
+}
+
+.contenido{
+    padding: 20px;
+}
+
+.contenido-principal{
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    justify-content:center;
+}
+
